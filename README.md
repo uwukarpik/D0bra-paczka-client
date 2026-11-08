@@ -4,8 +4,10 @@ Repozytorium hostujące pliki do pobrania klienta **D0bra Paczka**.
 
 ## 📦 Pobieranie
 
-Wszystkie pliki (instalator `.exe` oraz modyfikacje `.jar`) są dostępne w zakładce **[Releases](../../releases)** tego repozytorium.
+Wszystkie pliki — instalator klienta oraz paczki modów — znajdziesz w zakładce **[Releases](../../releases)** tego repozytorium.
+
+Pobierz najnowszą wersję Release, a następnie wybierz interesujące Cię pliki z sekcji **Assets**.
 
 ## 📄 Informacje
 
-Główne pliki konfiguracyjne (np. `data.json`) oraz API znajomych są hostowane oddzielnie na serwerze głównym projektu.
+Aktualności, lista serwerów i pozostałe materiały są dostępne na oficjalnej stronie projektu.
